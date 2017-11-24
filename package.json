@@ -1,0 +1,13 @@
+{
+  "name": "",
+  "version": "",
+  "script": "",
+  "dependencies": {
+    "express": "^4.16.2",
+    "fs": "0.0.1-security",
+    "images": "^3.0.1",
+    "node-defer": "^1.0.1",
+    "opn": "^5.1.0",
+    "q": "^1.5.1"
+  }
+}
