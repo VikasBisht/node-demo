@@ -1,5 +1,5 @@
 # node-demo
-Convert the png to jpg.
+Convert png to jpg.
 
 Just place the file into the  PNGFileToConvert and get the converted file in  ConvertedJPEGFile.
 
